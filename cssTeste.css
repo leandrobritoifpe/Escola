@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+fieldset{
+	width: 750px;
+	margin: 10px auto;
+	color: #444;
+	border: 5px solid #ccc;
+	font-family: Helvetica;
+	padding: 15px;
+	font-size: 15pt;
+}
+
+h1{
+	text-align: center;
+}
+
+p.sub-titulo{
+	font-size: 20px;
+}
+
+.direita{
+	text-align: right;
+}
+
+.center{
+	text-align: center;
+}
+.teste{
+	width: 300px;
+	size: 500px;
+	font-size: 12pt;
+}
+.div{
+	font-size: 15pt;
+	color: black;
+}
+.table{
+	padding: 5px;
+	color: black;
+	text-align: left;	
+}
+tr{
+	width: 1080px;	
+}
+.th1{
+	width: 100px;
+	text-align: left;
+	margin-left: 5px;
+}
+.th2{
+	width: 700px;
+	text-align: left;
+	margin-left: 100px;	
+}

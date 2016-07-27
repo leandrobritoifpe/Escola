@@ -1,0 +1,32 @@
+
+	Cadastro Responsável
+	Cadastro Aluno
+	Cadastro Profissional
+	Cadastro Disciplina
+
+	Movimentação Atividades
+	Movimentação Avaliação
+
+	Relatório Responsável
+	Relatório Aluno
+	Relatório Profissional
+	Relatório Disciplina
+	Relatório Atividades
+	Relatório Avaliação
+
+===========================================
+bd uol:
+
+banco: epc_gestor 
+caminho: epc-gestao.mysql.uhserver.com
+user: newbird
+pwd: nb1@2@3@4@ 
+===========================================
+
+Dados de acesso FTP (avançado)
+Usuário FTP/SSH: espacopau1 - definir senha
+Endereço FTP: ftp.espacopaulacalado.com.br ou ftp.uhserver.com 
+Endereço SSH: ssh.espacopaulacalado.com.br ou ssh.uhserver.com	
+
+	
+	
